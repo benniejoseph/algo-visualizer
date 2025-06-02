@@ -198,10 +198,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Maintainer**: [Your Name]
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Twitter**: [@yourtwitter](https://twitter.com/yourtwitter)
+- **Project Maintainer**: Bennie Joseph R
+- **Email**: benniejosepg.r@gmail.com
+- **GitHub**: [@benniejoseph](https://github.com/benniejoseph)
 
 ---
 
